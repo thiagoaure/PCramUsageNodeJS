@@ -1,4 +1,4 @@
-# Getting Started: Informations about RAM
+# Getting Started: Information about RAM
 
 In the project directory, you can run:
 
